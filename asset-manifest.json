@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/gallery/static/css/main.fb919287.css",
+    "main.js": "/gallery/static/js/main.eb57e005.js",
+    "static/media/art1.jpg": "/gallery/static/media/art1.d528b3d7626857f0d8ca.jpg",
+    "static/media/hand.svg": "/gallery/static/media/hand.5d7b0b2a1eb4e4be6997.svg",
+    "static/media/art2.jpg": "/gallery/static/media/art2.7c09bbfde3187cac58a3.jpg",
+    "static/media/category3.jpg": "/gallery/static/media/category3.02b8a62a90fd16230acf.jpg",
+    "static/media/art3.jpg": "/gallery/static/media/art3.53e1e63645c03aade6bd.jpg",
+    "static/media/category1.png": "/gallery/static/media/category1.4c7b936f674e875a61ba.png",
+    "static/media/art4.jpg": "/gallery/static/media/art4.72af2fc968999f8769d9.jpg",
+    "static/media/art5.jpg": "/gallery/static/media/art5.bdb709ae24fa184cbe18.jpg",
+    "static/media/art7.jpg": "/gallery/static/media/art7.7d66142d6ea8acf3aa15.jpg",
+    "static/media/art10.jpg": "/gallery/static/media/art10.54ad7e5afed9f659b3ed.jpg",
+    "static/media/category2.png": "/gallery/static/media/category2.c7d6cc380af54a456588.png",
+    "static/media/art11.jpg": "/gallery/static/media/art11.2c33fb0837d263ee185a.jpg",
+    "static/media/art6.jpg": "/gallery/static/media/art6.0030cbf818e48e7d5a59.jpg",
+    "static/media/logo.svg": "/gallery/static/media/logo.bbb7cacb91e07924ac4a575ab96e9579.svg",
+    "static/media/call.svg": "/gallery/static/media/call.638f28a8a8ee34b5520339bcb860d54f.svg",
+    "static/media/plant.svg": "/gallery/static/media/plant.a610f911734b38cefda5d4ee96bf2d36.svg",
+    "static/media/vk.svg": "/gallery/static/media/vk.3fc2248843ea7eeef18e07e569b1ac85.svg",
+    "static/media/box.svg": "/gallery/static/media/box.4f584f4e5d2015e27294481b8eba0f2d.svg",
+    "static/media/arrow.svg": "/gallery/static/media/arrow.b33eac2734c042e65025.svg",
+    "index.html": "/gallery/index.html",
+    "static/media/telegram.svg": "/gallery/static/media/telegram.03e8dc1e2c2cd08ed7f14eacc4bfe579.svg",
+    "static/media/arrowDown.svg": "/gallery/static/media/arrowDown.d48f816c2e6e319e703e.svg",
+    "main.fb919287.css.map": "/gallery/static/css/main.fb919287.css.map",
+    "main.eb57e005.js.map": "/gallery/static/js/main.eb57e005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb919287.css",
+    "static/js/main.eb57e005.js"
+  ]
+}
